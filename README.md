@@ -1,4 +1,6 @@
-# AI Food Planner MVP
+# Fuel
+
+## AI Food Planner MVP
 
 A React Native mobile application that helps users plan their meals with AI-powered food recommendations and nutritional tracking.
 
